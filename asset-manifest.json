@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/pohud/static/css/main.8bf23cc0.css",
+    "main.js": "/pohud/static/js/main.308394dd.js",
+    "static/media/banner.png": "/pohud/static/media/banner.be23e998b21d45fdabbf.png",
+    "static/media/stories7.png": "/pohud/static/media/stories7.921cae51843e8dff678b.png",
+    "static/media/stories2.png": "/pohud/static/media/stories2.b8dcb01c2dea0529216e.png",
+    "static/media/stories3.png": "/pohud/static/media/stories3.b03f7469921acbe97fce.png",
+    "static/media/overview.png": "/pohud/static/media/overview.e5c81fd04764b3854d60.png",
+    "static/media/stories6.png": "/pohud/static/media/stories6.c65696afcdd80dfd3c1d.png",
+    "static/media/mission.png": "/pohud/static/media/mission.bb96cbf0743dddc83654.png",
+    "static/media/stories5.png": "/pohud/static/media/stories5.807d3fe1b70c6eff8512.png",
+    "static/media/stories1.png": "/pohud/static/media/stories1.2662a5a4928e40aec4e1.png",
+    "static/media/starter.png": "/pohud/static/media/starter.8d133d24fb67a0a1c44c.png",
+    "static/media/buss1.png": "/pohud/static/media/buss1.2887e954ff6c019cb29d.png",
+    "static/media/buss3.png": "/pohud/static/media/buss3.4e28b9ec7fc3a458becc.png",
+    "static/media/buss2.png": "/pohud/static/media/buss2.1c97aff5016a61b01696.png",
+    "static/media/logo.png": "/pohud/static/media/logo.d082fba7de8e4cc8adbe.png",
+    "static/media/stories4.png": "/pohud/static/media/stories4.79f623646bf4b995dfc9.png",
+    "static/media/sss.png": "/pohud/static/media/sss.27204db408ff6e7fa53f.png",
+    "static/media/comment.png": "/pohud/static/media/comment.3e402b43855e0a09494e.png",
+    "static/media/chart.png": "/pohud/static/media/chart.6bd5fc0457ec90878b33.png",
+    "static/media/corevalues1.jpg": "/pohud/static/media/corevalues1.e7724c988f1ccf2e63ce.jpg",
+    "static/media/vision.jpeg": "/pohud/static/media/vision.279bd288c2a0708941be.jpeg",
+    "static/media/corevalues2.jpg": "/pohud/static/media/corevalues2.6c0080a787130658c74b.jpg",
+    "index.html": "/pohud/index.html",
+    "main.8bf23cc0.css.map": "/pohud/static/css/main.8bf23cc0.css.map",
+    "main.308394dd.js.map": "/pohud/static/js/main.308394dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bf23cc0.css",
+    "static/js/main.308394dd.js"
+  ]
+}
