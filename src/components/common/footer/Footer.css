@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@300&display=swap');
+
+.foot
+{
+    /* width:auto; */
+    height:auto;
+    background-color:#0D0D0D;
+    color:#fff;
+    padding:60px;
+    font-family: 'Overpass', sans-serif;
+
+}
+
+
+.footer-top
+{
+    display:flex;
+    justify-content:space-between;
+}
+
+.component nav ul 
+{
+    display:flex;
+    flex-direction:column;
+    line-height:10px;
+}
+
+.component nav ul li 
+{
+    list-style: none;
+    padding: 10px;
+}
+
+<<<<<<< HEAD
+div.foot .component nav ul li a{
+    color: #fff; 
+}
+
+=======
+.component nav ul li a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+>>>>>>> 140fef71c2eb54a18c8f6bfe85b74011314bb2d6
+
+.component nav h2
+{
+    /* padding-bottom:10px; */
+}
+
+.footer-icon ul 
+{
+    display:flex;
+    justify-content:center;
+    font-size:40px;
+    color: #FFFFFF;
+}
+.footer-icon ul li 
+{
+    list-style-type: none;
+    padding: 5px;
+
+}
+.footer-icon ul li a
+{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+
+.copy-write
+{
+    display:flex;
+    justify-content:center;
+}
+
+.third-component
+{
+    text-align:right;
+}
+
+.third-component h2
+{
+    font-size:33px;
+}
+
+
+.search-footer
+{
+    padding:10px 0 10px 10px;
+}
+
+.footer-icon ul li a{
+    color: #fff;
+}
